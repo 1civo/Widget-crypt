@@ -1,0 +1,1867 @@
+{
+  "data": [
+    {
+      "id": "eth_0x79d9ac48232b000987112934a55a0d151e136567",
+      "type": "pool",
+      "attributes": {
+        "base_token_price_usd": "0.0000000527504907977343",
+        "base_token_price_native_currency": "0.0000000000222480346620513",
+        "quote_token_price_usd": "2409.15",
+        "quote_token_price_native_currency": "1.0",
+        "base_token_price_quote_token": "0.00000000002224803466",
+        "quote_token_price_base_token": "44947790453.8557",
+        "address": "0x79d9ac48232b000987112934a55a0d151e136567",
+        "name": "ETHSAN / WETH",
+        "pool_created_at": "2025-05-19T08:26:35Z",
+        "fdv_usd": "22191.6039736988",
+        "market_cap_usd": null,
+        "price_change_percentage": {
+          "m5": "521.12",
+          "m15": "521.12",
+          "m30": "521.12",
+          "h1": "521.12",
+          "h6": "521.12",
+          "h24": "521.12"
+        },
+        "transactions": {
+          "m5": {
+            "buys": 36,
+            "sells": 4,
+            "buyers": 33,
+            "sellers": 2
+          },
+          "m15": {
+            "buys": 36,
+            "sells": 4,
+            "buyers": 33,
+            "sellers": 2
+          },
+          "m30": {
+            "buys": 36,
+            "sells": 4,
+            "buyers": 33,
+            "sellers": 2
+          },
+          "h1": {
+            "buys": 36,
+            "sells": 4,
+            "buyers": 33,
+            "sellers": 2
+          },
+          "h6": {
+            "buys": 36,
+            "sells": 4,
+            "buyers": 33,
+            "sellers": 2
+          },
+          "h24": {
+            "buys": 36,
+            "sells": 4,
+            "buyers": 33,
+            "sellers": 2
+          }
+        },
+        "volume_usd": {
+          "m5": "5756.5883835527",
+          "m15": "5756.5883835527",
+          "m30": "5756.5883835527",
+          "h1": "5756.5883835527",
+          "h6": "5756.5883835527",
+          "h24": "5756.5883835527"
+        },
+        "reserve_in_usd": "11963.598"
+      },
+      "relationships": {
+        "base_token": {
+          "data": {
+            "id": "eth_0xb4fb3d58b2335099cdb2fc4becd3d32e7b17656e",
+            "type": "token"
+          }
+        },
+        "quote_token": {
+          "data": {
+            "id": "eth_0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "type": "token"
+          }
+        },
+        "dex": {
+          "data": {
+            "id": "uniswap_v2",
+            "type": "dex"
+          }
+        }
+      }
+    },
+    {
+      "id": "eth_0xbb5d71d6750da344cbc01a3a4b75177726894f09",
+      "type": "pool",
+      "attributes": {
+        "base_token_price_usd": "0.00000801711495061444",
+        "base_token_price_native_currency": "0.00000000340622363377644",
+        "quote_token_price_usd": "2409.15",
+        "quote_token_price_native_currency": "1.0",
+        "base_token_price_quote_token": "0.000000003406223634",
+        "quote_token_price_base_token": "293580254.121868",
+        "address": "0xbb5d71d6750da344cbc01a3a4b75177726894f09",
+        "name": "Groyper / WETH",
+        "pool_created_at": "2025-05-19T08:19:35Z",
+        "fdv_usd": "8017.1149506144",
+        "market_cap_usd": null,
+        "price_change_percentage": {
+          "m5": "4.99",
+          "m15": "255.72",
+          "m30": "255.72",
+          "h1": "255.72",
+          "h6": "255.72",
+          "h24": "255.72"
+        },
+        "transactions": {
+          "m5": {
+            "buys": 4,
+            "sells": 2,
+            "buyers": 4,
+            "sellers": 2
+          },
+          "m15": {
+            "buys": 19,
+            "sells": 5,
+            "buyers": 19,
+            "sellers": 3
+          },
+          "m30": {
+            "buys": 19,
+            "sells": 5,
+            "buyers": 19,
+            "sellers": 3
+          },
+          "h1": {
+            "buys": 19,
+            "sells": 5,
+            "buyers": 19,
+            "sellers": 3
+          },
+          "h6": {
+            "buys": 19,
+            "sells": 5,
+            "buyers": 19,
+            "sellers": 3
+          },
+          "h24": {
+            "buys": 19,
+            "sells": 5,
+            "buyers": 19,
+            "sellers": 3
+          }
+        },
+        "volume_usd": {
+          "m5": "2238.0513529348",
+          "m15": "4403.2374737148",
+          "m30": "4403.2374737148",
+          "h1": "4403.2374737148",
+          "h6": "4403.2374737148",
+          "h24": "4403.2374737148"
+        },
+        "reserve_in_usd": "9705.2608"
+      },
+      "relationships": {
+        "base_token": {
+          "data": {
+            "id": "eth_0x8828a3df74d7a33def14745bb77d771c9e272f9c",
+            "type": "token"
+          }
+        },
+        "quote_token": {
+          "data": {
+            "id": "eth_0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "type": "token"
+          }
+        },
+        "dex": {
+          "data": {
+            "id": "uniswap_v2",
+            "type": "dex"
+          }
+        }
+      }
+    },
+    {
+      "id": "eth_0x13345780fee74436e5b227f33b8728c7cc3c63de",
+      "type": "pool",
+      "attributes": {
+        "base_token_price_usd": "0.0000435639462827769",
+        "base_token_price_native_currency": "0.0000000180347612896023",
+        "quote_token_price_usd": "2409.15",
+        "quote_token_price_native_currency": "1.0",
+        "base_token_price_quote_token": "0.00000001803476129",
+        "quote_token_price_base_token": "55448474.4179307",
+        "address": "0x13345780fee74436e5b227f33b8728c7cc3c63de",
+        "name": "MARU / WETH",
+        "pool_created_at": "2025-05-19T08:17:35Z",
+        "fdv_usd": "43563.9462827769",
+        "market_cap_usd": null,
+        "price_change_percentage": {
+          "m5": "-10.03",
+          "m15": "2089.59",
+          "m30": "2089.59",
+          "h1": "2089.59",
+          "h6": "2089.59",
+          "h24": "2089.59"
+        },
+        "transactions": {
+          "m5": {
+            "buys": 13,
+            "sells": 10,
+            "buyers": 12,
+            "sellers": 4
+          },
+          "m15": {
+            "buys": 93,
+            "sells": 32,
+            "buyers": 73,
+            "sellers": 12
+          },
+          "m30": {
+            "buys": 93,
+            "sells": 32,
+            "buyers": 73,
+            "sellers": 12
+          },
+          "h1": {
+            "buys": 93,
+            "sells": 32,
+            "buyers": 73,
+            "sellers": 12
+          },
+          "h6": {
+            "buys": 93,
+            "sells": 32,
+            "buyers": 73,
+            "sellers": 12
+          },
+          "h24": {
+            "buys": 93,
+            "sells": 32,
+            "buyers": 73,
+            "sellers": 12
+          }
+        },
+        "volume_usd": {
+          "m5": "3270.9140831833",
+          "m15": "23400.0413207541",
+          "m30": "23400.0413207541",
+          "h1": "23400.0413207541",
+          "h6": "23400.0413207541",
+          "h24": "23400.0413207541"
+        },
+        "reserve_in_usd": "14994.0678"
+      },
+      "relationships": {
+        "base_token": {
+          "data": {
+            "id": "eth_0x3fe6bea680e88fa97abff86bbebbebce3860fb29",
+            "type": "token"
+          }
+        },
+        "quote_token": {
+          "data": {
+            "id": "eth_0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "type": "token"
+          }
+        },
+        "dex": {
+          "data": {
+            "id": "uniswap_v2",
+            "type": "dex"
+          }
+        }
+      }
+    },
+    {
+      "id": "eth_0x9c842572d3c7231f44784b9e5ebaeefce6d6f0b7",
+      "type": "pool",
+      "attributes": {
+        "base_token_price_usd": "0.00000799802801838703",
+        "base_token_price_native_currency": "0.00000000385568810502827",
+        "quote_token_price_usd": "2403.63",
+        "quote_token_price_native_currency": "1.0",
+        "base_token_price_quote_token": "0.000000003855688105",
+        "quote_token_price_base_token": "259357077.844518",
+        "address": "0x9c842572d3c7231f44784b9e5ebaeefce6d6f0b7",
+        "name": "DAMI / WETH",
+        "pool_created_at": "2025-05-19T08:11:47Z",
+        "fdv_usd": "7998.028018387",
+        "market_cap_usd": null,
+        "price_change_percentage": {
+          "m5": "0",
+          "m15": "74.06",
+          "m30": "74.06",
+          "h1": "74.06",
+          "h6": "74.06",
+          "h24": "74.06"
+        },
+        "transactions": {
+          "m5": {
+            "buys": 0,
+            "sells": 0,
+            "buyers": 0,
+            "sellers": 0
+          },
+          "m15": {
+            "buys": 20,
+            "sells": 6,
+            "buyers": 20,
+            "sellers": 3
+          },
+          "m30": {
+            "buys": 20,
+            "sells": 6,
+            "buyers": 20,
+            "sellers": 3
+          },
+          "h1": {
+            "buys": 20,
+            "sells": 6,
+            "buyers": 20,
+            "sellers": 3
+          },
+          "h6": {
+            "buys": 20,
+            "sells": 6,
+            "buyers": 20,
+            "sellers": 3
+          },
+          "h24": {
+            "buys": 20,
+            "sells": 6,
+            "buyers": 20,
+            "sellers": 3
+          }
+        },
+        "volume_usd": {
+          "m5": "0.0",
+          "m15": "2663.1110278763",
+          "m30": "2663.1110278763",
+          "h1": "2663.1110278763",
+          "h6": "2663.1110278763",
+          "h24": "2663.1110278763"
+        },
+        "reserve_in_usd": "8621.5774"
+      },
+      "relationships": {
+        "base_token": {
+          "data": {
+            "id": "eth_0x9ff908e7f1d6b9d430d1110da3f6bc8d3155e7d6",
+            "type": "token"
+          }
+        },
+        "quote_token": {
+          "data": {
+            "id": "eth_0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "type": "token"
+          }
+        },
+        "dex": {
+          "data": {
+            "id": "uniswap_v2",
+            "type": "dex"
+          }
+        }
+      }
+    },
+    {
+      "id": "eth_0x59da4020ba5845d49eb35439872c3c3a94013b40",
+      "type": "pool",
+      "attributes": {
+        "base_token_price_usd": "0.00000553247300123958",
+        "base_token_price_native_currency": "0.0000000483842631732326",
+        "quote_token_price_usd": "2402.16",
+        "quote_token_price_native_currency": "1.0",
+        "base_token_price_quote_token": "0.00000004838426317",
+        "quote_token_price_base_token": "20667877.0",
+        "address": "0x59da4020ba5845d49eb35439872c3c3a94013b40",
+        "name": "RTE / WETH",
+        "pool_created_at": "2025-05-19T08:09:35Z",
+        "fdv_usd": "2982.0029476681",
+        "market_cap_usd": null,
+        "price_change_percentage": {
+          "m5": "0",
+          "m15": "19.11",
+          "m30": "22.32",
+          "h1": "22.32",
+          "h6": "22.32",
+          "h24": "22.32"
+        },
+        "transactions": {
+          "m5": {
+            "buys": 0,
+            "sells": 0,
+            "buyers": 0,
+            "sellers": 0
+          },
+          "m15": {
+            "buys": 8,
+            "sells": 0,
+            "buyers": 8,
+            "sellers": 0
+          },
+          "m30": {
+            "buys": 9,
+            "sells": 0,
+            "buyers": 9,
+            "sellers": 0
+          },
+          "h1": {
+            "buys": 9,
+            "sells": 0,
+            "buyers": 9,
+            "sellers": 0
+          },
+          "h6": {
+            "buys": 9,
+            "sells": 0,
+            "buyers": 9,
+            "sellers": 0
+          },
+          "h24": {
+            "buys": 9,
+            "sells": 0,
+            "buyers": 9,
+            "sellers": 0
+          }
+        },
+        "volume_usd": {
+          "m5": "0.0",
+          "m15": "269.7963348013",
+          "m30": "297.1939548013",
+          "h1": "297.1939548013",
+          "h6": "297.1939548013",
+          "h24": "297.1939548013"
+        },
+        "reserve_in_usd": "0.0"
+      },
+      "relationships": {
+        "base_token": {
+          "data": {
+            "id": "eth_0x3b90da260d846afa98bbc6261b66207301cf1f4d",
+            "type": "token"
+          }
+        },
+        "quote_token": {
+          "data": {
+            "id": "eth_0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "type": "token"
+          }
+        },
+        "dex": {
+          "data": {
+            "id": "uniswap_v2",
+            "type": "dex"
+          }
+        }
+      }
+    },
+    {
+      "id": "eth_0x03b8f5eda84edd4145a02ab51a06d21e5b5e622c",
+      "type": "pool",
+      "attributes": {
+        "base_token_price_usd": "0.00000690237316271789",
+        "base_token_price_native_currency": "0.00000000291921835834259",
+        "quote_token_price_usd": "2404.05",
+        "quote_token_price_native_currency": "1.0",
+        "base_token_price_quote_token": "0.000000002919218358",
+        "quote_token_price_base_token": "342557451.086927",
+        "address": "0x03b8f5eda84edd4145a02ab51a06d21e5b5e622c",
+        "name": "MEME / WETH",
+        "pool_created_at": "2025-05-19T07:55:59Z",
+        "fdv_usd": "6902.3731627179",
+        "market_cap_usd": null,
+        "price_change_percentage": {
+          "m5": "0",
+          "m15": "0",
+          "m30": "76.55",
+          "h1": "76.55",
+          "h6": "76.55",
+          "h24": "76.55"
+        },
+        "transactions": {
+          "m5": {
+            "buys": 0,
+            "sells": 0,
+            "buyers": 0,
+            "sellers": 0
+          },
+          "m15": {
+            "buys": 0,
+            "sells": 0,
+            "buyers": 0,
+            "sellers": 0
+          },
+          "m30": {
+            "buys": 15,
+            "sells": 4,
+            "buyers": 15,
+            "sellers": 2
+          },
+          "h1": {
+            "buys": 15,
+            "sells": 4,
+            "buyers": 15,
+            "sellers": 2
+          },
+          "h6": {
+            "buys": 15,
+            "sells": 4,
+            "buyers": 15,
+            "sellers": 2
+          },
+          "h24": {
+            "buys": 15,
+            "sells": 4,
+            "buyers": 15,
+            "sellers": 2
+          }
+        },
+        "volume_usd": {
+          "m5": "0.0",
+          "m15": "0.0",
+          "m30": "1664.6531146153",
+          "h1": "1664.6531146153",
+          "h6": "1664.6531146153",
+          "h24": "1664.6531146153"
+        },
+        "reserve_in_usd": "7360.5393"
+      },
+      "relationships": {
+        "base_token": {
+          "data": {
+            "id": "eth_0x9d71b30339dd299aab99099e38b2277ab8681213",
+            "type": "token"
+          }
+        },
+        "quote_token": {
+          "data": {
+            "id": "eth_0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "type": "token"
+          }
+        },
+        "dex": {
+          "data": {
+            "id": "uniswap_v2",
+            "type": "dex"
+          }
+        }
+      }
+    },
+    {
+      "id": "eth_0x668af04ef8b4f9561a97bd7dd5e916422531ecc3",
+      "type": "pool",
+      "attributes": {
+        "base_token_price_usd": "0.00148664049816164",
+        "base_token_price_native_currency": "0.000000617870257149377",
+        "quote_token_price_usd": "2409.15",
+        "quote_token_price_native_currency": "1.0",
+        "base_token_price_quote_token": "0.0000006178702571",
+        "quote_token_price_base_token": "1618462.75723584",
+        "address": "0x668af04ef8b4f9561a97bd7dd5e916422531ecc3",
+        "name": "SWASTIKA / WETH",
+        "pool_created_at": "2025-05-19T07:55:23Z",
+        "fdv_usd": "1486640.49816164",
+        "market_cap_usd": null,
+        "price_change_percentage": {
+          "m5": "11.83",
+          "m15": "1122.91",
+          "m30": "10019.7",
+          "h1": "59094.98",
+          "h6": "59094.98",
+          "h24": "59094.98"
+        },
+        "transactions": {
+          "m5": {
+            "buys": 4,
+            "sells": 0,
+            "buyers": 4,
+            "sellers": 0
+          },
+          "m15": {
+            "buys": 53,
+            "sells": 12,
+            "buyers": 37,
+            "sellers": 12
+          },
+          "m30": {
+            "buys": 110,
+            "sells": 30,
+            "buyers": 62,
+            "sellers": 23
+          },
+          "h1": {
+            "buys": 134,
+            "sells": 33,
+            "buyers": 70,
+            "sellers": 26
+          },
+          "h6": {
+            "buys": 134,
+            "sells": 33,
+            "buyers": 70,
+            "sellers": 26
+          },
+          "h24": {
+            "buys": 134,
+            "sells": 33,
+            "buyers": 70,
+            "sellers": 26
+          }
+        },
+        "volume_usd": {
+          "m5": "4045.0509308282",
+          "m15": "138521.164930608",
+          "m30": "190889.562011359",
+          "h1": "200470.085016327",
+          "h6": "200470.085016327",
+          "h24": "200470.085016327"
+        },
+        "reserve_in_usd": "120546.8795"
+      },
+      "relationships": {
+        "base_token": {
+          "data": {
+            "id": "eth_0x7495df6b56717512211da3002b167abbb27b8670",
+            "type": "token"
+          }
+        },
+        "quote_token": {
+          "data": {
+            "id": "eth_0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "type": "token"
+          }
+        },
+        "dex": {
+          "data": {
+            "id": "uniswap_v2",
+            "type": "dex"
+          }
+        }
+      }
+    },
+    {
+      "id": "eth_0x9362342b56fc1cf695d562680d2fe44d10208bf6",
+      "type": "pool",
+      "attributes": {
+        "base_token_price_usd": "0.00000604159098843173",
+        "base_token_price_native_currency": "0.000000050424885124548",
+        "quote_token_price_usd": "2402.41",
+        "quote_token_price_native_currency": "1.0",
+        "base_token_price_quote_token": "0.00000005042488512",
+        "quote_token_price_base_token": "19831478.0",
+        "address": "0x9362342b56fc1cf695d562680d2fe44d10208bf6",
+        "name": "FCH / WETH",
+        "pool_created_at": "2025-05-19T07:49:35Z",
+        "fdv_usd": "3262.4591337531",
+        "market_cap_usd": null,
+        "price_change_percentage": {
+          "m5": "0",
+          "m15": "0",
+          "m30": "0",
+          "h1": "34.03",
+          "h6": "34.03",
+          "h24": "34.03"
+        },
+        "transactions": {
+          "m5": {
+            "buys": 0,
+            "sells": 0,
+            "buyers": 0,
+            "sellers": 0
+          },
+          "m15": {
+            "buys": 0,
+            "sells": 0,
+            "buyers": 0,
+            "sellers": 0
+          },
+          "m30": {
+            "buys": 0,
+            "sells": 0,
+            "buyers": 0,
+            "sellers": 0
+          },
+          "h1": {
+            "buys": 15,
+            "sells": 2,
+            "buyers": 15,
+            "sellers": 2
+          },
+          "h6": {
+            "buys": 15,
+            "sells": 2,
+            "buyers": 15,
+            "sellers": 2
+          },
+          "h24": {
+            "buys": 15,
+            "sells": 2,
+            "buyers": 15,
+            "sellers": 2
+          }
+        },
+        "volume_usd": {
+          "m5": "0.0",
+          "m15": "0.0",
+          "m30": "0.0",
+          "h1": "942.3625916227",
+          "h6": "942.3625916227",
+          "h24": "942.3625916227"
+        },
+        "reserve_in_usd": "0.0"
+      },
+      "relationships": {
+        "base_token": {
+          "data": {
+            "id": "eth_0x7ced9d0c7e5dd9c341b1683ce61329d5f55b70f1",
+            "type": "token"
+          }
+        },
+        "quote_token": {
+          "data": {
+            "id": "eth_0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "type": "token"
+          }
+        },
+        "dex": {
+          "data": {
+            "id": "uniswap_v2",
+            "type": "dex"
+          }
+        }
+      }
+    },
+    {
+      "id": "eth_0x1e9f48d31ec4c6fb66a92340ee1a6cb45aebdc89",
+      "type": "pool",
+      "attributes": {
+        "base_token_price_usd": "0.00153107074157296",
+        "base_token_price_native_currency": "0.000000643909585343032",
+        "quote_token_price_usd": "2397.64",
+        "quote_token_price_native_currency": "1.0",
+        "base_token_price_quote_token": "0.0000006439095853",
+        "quote_token_price_base_token": "1553013.06699335",
+        "address": "0x1e9f48d31ec4c6fb66a92340ee1a6cb45aebdc89",
+        "name": "$VERSWAP / WETH",
+        "pool_created_at": "2025-05-19T07:35:47Z",
+        "fdv_usd": "15310.7074157296",
+        "market_cap_usd": null,
+        "price_change_percentage": {
+          "m5": "0",
+          "m15": "0",
+          "m30": "0",
+          "h1": "5.33",
+          "h6": "5.33",
+          "h24": "5.33"
+        },
+        "transactions": {
+          "m5": {
+            "buys": 0,
+            "sells": 0,
+            "buyers": 0,
+            "sellers": 0
+          },
+          "m15": {
+            "buys": 0,
+            "sells": 0,
+            "buyers": 0,
+            "sellers": 0
+          },
+          "m30": {
+            "buys": 0,
+            "sells": 0,
+            "buyers": 0,
+            "sellers": 0
+          },
+          "h1": {
+            "buys": 4,
+            "sells": 0,
+            "buyers": 2,
+            "sellers": 0
+          },
+          "h6": {
+            "buys": 4,
+            "sells": 0,
+            "buyers": 2,
+            "sellers": 0
+          },
+          "h24": {
+            "buys": 4,
+            "sells": 0,
+            "buyers": 2,
+            "sellers": 0
+          }
+        },
+        "volume_usd": {
+          "m5": "0.0",
+          "m15": "0.0",
+          "m30": "0.0",
+          "h1": "517.8771",
+          "h6": "517.8771",
+          "h24": "517.8771"
+        },
+        "reserve_in_usd": "29934.0182"
+      },
+      "relationships": {
+        "base_token": {
+          "data": {
+            "id": "eth_0x39f395ec69e3f352f167fe52710895351e2d2770",
+            "type": "token"
+          }
+        },
+        "quote_token": {
+          "data": {
+            "id": "eth_0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "type": "token"
+          }
+        },
+        "dex": {
+          "data": {
+            "id": "uniswap_v2",
+            "type": "dex"
+          }
+        }
+      }
+    },
+    {
+      "id": "eth_0xc6a46225379d0090f80f98b930639468691a4181",
+      "type": "pool",
+      "attributes": {
+        "base_token_price_usd": "0.00000000287439874758237",
+        "base_token_price_native_currency": "0.00000000000119527839480815",
+        "quote_token_price_usd": "2407.24",
+        "quote_token_price_native_currency": "1.0",
+        "base_token_price_quote_token": "0.000000000001195278395",
+        "quote_token_price_base_token": "836625178154.004",
+        "address": "0xc6a46225379d0090f80f98b930639468691a4181",
+        "name": "404 / WETH",
+        "pool_created_at": "2025-05-19T07:35:35Z",
+        "fdv_usd": "1207.2474739846",
+        "market_cap_usd": null,
+        "price_change_percentage": {
+          "m5": "0",
+          "m15": "0",
+          "m30": "0",
+          "h1": "0.18",
+          "h6": "0.18",
+          "h24": "0.18"
+        },
+        "transactions": {
+          "m5": {
+            "buys": 0,
+            "sells": 1,
+            "buyers": 0,
+            "sellers": 1
+          },
+          "m15": {
+            "buys": 0,
+            "sells": 1,
+            "buyers": 0,
+            "sellers": 1
+          },
+          "m30": {
+            "buys": 0,
+            "sells": 1,
+            "buyers": 0,
+            "sellers": 1
+          },
+          "h1": {
+            "buys": 4,
+            "sells": 2,
+            "buyers": 3,
+            "sellers": 2
+          },
+          "h6": {
+            "buys": 4,
+            "sells": 2,
+            "buyers": 3,
+            "sellers": 2
+          },
+          "h24": {
+            "buys": 4,
+            "sells": 2,
+            "buyers": 3,
+            "sellers": 2
+          }
+        },
+        "volume_usd": {
+          "m5": "2.3929036986",
+          "m15": "2.3929036986",
+          "m30": "2.3929036986",
+          "h1": "16.7572415326",
+          "h6": "16.7572415326",
+          "h24": "16.7572415326"
+        },
+        "reserve_in_usd": "2417.2505"
+      },
+      "relationships": {
+        "base_token": {
+          "data": {
+            "id": "eth_0xb33f55fcf1400f5d967a79e2cc5cca03fbc0a94c",
+            "type": "token"
+          }
+        },
+        "quote_token": {
+          "data": {
+            "id": "eth_0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "type": "token"
+          }
+        },
+        "dex": {
+          "data": {
+            "id": "uniswap_v2",
+            "type": "dex"
+          }
+        }
+      }
+    },
+    {
+      "id": "eth_0xe5d24c7547bb86abb81b1bbc0cc8b11925d1ded9",
+      "type": "pool",
+      "attributes": {
+        "base_token_price_usd": "0.000000143610084500468",
+        "base_token_price_native_currency": "0.00000000774664282384281",
+        "quote_token_price_usd": "2395.09",
+        "quote_token_price_native_currency": "1.0",
+        "base_token_price_quote_token": "0.000000007746642824",
+        "quote_token_price_base_token": "129088177.0",
+        "address": "0xe5d24c7547bb86abb81b1bbc0cc8b11925d1ded9",
+        "name": "CLST / WETH",
+        "pool_created_at": "2025-05-19T07:23:47Z",
+        "fdv_usd": "4451.9126195145",
+        "market_cap_usd": null,
+        "price_change_percentage": {
+          "m5": "0",
+          "m15": "0",
+          "m30": "0",
+          "h1": "9.84",
+          "h6": "15.24",
+          "h24": "15.24"
+        },
+        "transactions": {
+          "m5": {
+            "buys": 0,
+            "sells": 0,
+            "buyers": 0,
+            "sellers": 0
+          },
+          "m15": {
+            "buys": 0,
+            "sells": 0,
+            "buyers": 0,
+            "sellers": 0
+          },
+          "m30": {
+            "buys": 0,
+            "sells": 0,
+            "buyers": 0,
+            "sellers": 0
+          },
+          "h1": {
+            "buys": 4,
+            "sells": 1,
+            "buyers": 3,
+            "sellers": 1
+          },
+          "h6": {
+            "buys": 6,
+            "sells": 1,
+            "buyers": 4,
+            "sellers": 1
+          },
+          "h24": {
+            "buys": 6,
+            "sells": 1,
+            "buyers": 4,
+            "sellers": 1
+          }
+        },
+        "volume_usd": {
+          "m5": "0.0",
+          "m15": "0.0",
+          "m30": "0.0",
+          "h1": "240.2210604698",
+          "h6": "316.7761604698",
+          "h24": "316.7761604698"
+        },
+        "reserve_in_usd": "8310.1092"
+      },
+      "relationships": {
+        "base_token": {
+          "data": {
+            "id": "eth_0x5127de940b7c3d2ab61bf95ad2ee1aa8803e6b04",
+            "type": "token"
+          }
+        },
+        "quote_token": {
+          "data": {
+            "id": "eth_0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "type": "token"
+          }
+        },
+        "dex": {
+          "data": {
+            "id": "uniswap_v2",
+            "type": "dex"
+          }
+        }
+      }
+    },
+    {
+      "id": "eth_0x38cff66fe3e6db015819254c12ca3bb46acedce0",
+      "type": "pool",
+      "attributes": {
+        "base_token_price_usd": "0.0433578562560325",
+        "base_token_price_native_currency": "0.000018102617250539",
+        "quote_token_price_usd": "2387.93",
+        "quote_token_price_native_currency": "1.0",
+        "base_token_price_quote_token": "0.00001810261725",
+        "quote_token_price_base_token": "55240.63101816",
+        "address": "0x38cff66fe3e6db015819254c12ca3bb46acedce0",
+        "name": "KEKIUS / WETH 0.3%",
+        "pool_created_at": "2025-05-19T07:20:11Z",
+        "fdv_usd": "43357856.2560325",
+        "market_cap_usd": null,
+        "price_change_percentage": {
+          "m5": "0",
+          "m15": "0",
+          "m30": "0",
+          "h1": "0",
+          "h6": "0",
+          "h24": "0"
+        },
+        "transactions": {
+          "m5": {
+            "buys": 0,
+            "sells": 0,
+            "buyers": 0,
+            "sellers": 0
+          },
+          "m15": {
+            "buys": 0,
+            "sells": 0,
+            "buyers": 0,
+            "sellers": 0
+          },
+          "m30": {
+            "buys": 0,
+            "sells": 0,
+            "buyers": 0,
+            "sellers": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0,
+            "buyers": 0,
+            "sellers": 0
+          },
+          "h6": {
+            "buys": 1,
+            "sells": 0,
+            "buyers": 1,
+            "sellers": 0
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 0,
+            "buyers": 1,
+            "sellers": 0
+          }
+        },
+        "volume_usd": {
+          "m5": "0.0",
+          "m15": "0.0",
+          "m30": "0.0",
+          "h1": "0.0",
+          "h6": "0.08693250179",
+          "h24": "0.08693250179"
+        },
+        "reserve_in_usd": "30491849.4273"
+      },
+      "relationships": {
+        "base_token": {
+          "data": {
+            "id": "eth_0x691dcfc194cd7446160f1e02bddd6e1c267754ce",
+            "type": "token"
+          }
+        },
+        "quote_token": {
+          "data": {
+            "id": "eth_0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "type": "token"
+          }
+        },
+        "dex": {
+          "data": {
+            "id": "uniswap_v3",
+            "type": "dex"
+          }
+        }
+      }
+    },
+    {
+      "id": "eth_0x74d4d4623b32ed7eae76f6a86f55ee60a987c31d",
+      "type": "pool",
+      "attributes": {
+        "base_token_price_usd": "0.0000155533583883279",
+        "base_token_price_native_currency": "0.00000000703498450435139",
+        "quote_token_price_usd": "2387.93",
+        "quote_token_price_native_currency": "1.0",
+        "base_token_price_quote_token": "0.000000007034984504",
+        "quote_token_price_base_token": "142146723.902727",
+        "address": "0x74d4d4623b32ed7eae76f6a86f55ee60a987c31d",
+        "name": "RETARDIO / WETH",
+        "pool_created_at": "2025-05-19T07:17:59Z",
+        "fdv_usd": "15553.3583883279",
+        "market_cap_usd": null,
+        "price_change_percentage": {
+          "m5": "0",
+          "m15": "0",
+          "m30": "0",
+          "h1": "0",
+          "h6": "39.22",
+          "h24": "39.22"
+        },
+        "transactions": {
+          "m5": {
+            "buys": 0,
+            "sells": 0,
+            "buyers": 0,
+            "sellers": 0
+          },
+          "m15": {
+            "buys": 0,
+            "sells": 0,
+            "buyers": 0,
+            "sellers": 0
+          },
+          "m30": {
+            "buys": 0,
+            "sells": 0,
+            "buyers": 0,
+            "sellers": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0,
+            "buyers": 0,
+            "sellers": 0
+          },
+          "h6": {
+            "buys": 6,
+            "sells": 0,
+            "buyers": 6,
+            "sellers": 0
+          },
+          "h24": {
+            "buys": 6,
+            "sells": 0,
+            "buyers": 6,
+            "sellers": 0
+          }
+        },
+        "volume_usd": {
+          "m5": "0.0",
+          "m15": "0.0",
+          "m30": "0.0",
+          "h1": "0.0",
+          "h6": "714.9948893557",
+          "h24": "714.9948893557"
+        },
+        "reserve_in_usd": "6255.8207"
+      },
+      "relationships": {
+        "base_token": {
+          "data": {
+            "id": "eth_0xc4894e85a8efa73384d0ef4577436026ca185b57",
+            "type": "token"
+          }
+        },
+        "quote_token": {
+          "data": {
+            "id": "eth_0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "type": "token"
+          }
+        },
+        "dex": {
+          "data": {
+            "id": "uniswap_v2",
+            "type": "dex"
+          }
+        }
+      }
+    },
+    {
+      "id": "eth_0x6a45d0b003571b77460f689f30e4d9e6a472e405",
+      "type": "pool",
+      "attributes": {
+        "base_token_price_usd": "0.00000000287150982168589",
+        "base_token_price_native_currency": "0.00000000000121241513094083",
+        "quote_token_price_usd": "2395.33",
+        "quote_token_price_native_currency": "1.0",
+        "base_token_price_quote_token": "0.000000000001212415131",
+        "quote_token_price_base_token": "824800000000.003",
+        "address": "0x6a45d0b003571b77460f689f30e4d9e6a472e405",
+        "name": "404 / WETH",
+        "pool_created_at": "2025-05-19T07:16:23Z",
+        "fdv_usd": "1206.0341251081",
+        "market_cap_usd": null,
+        "price_change_percentage": {
+          "m5": "0",
+          "m15": "0",
+          "m30": "0",
+          "h1": "0",
+          "h6": "0.73",
+          "h24": "0.73"
+        },
+        "transactions": {
+          "m5": {
+            "buys": 0,
+            "sells": 0,
+            "buyers": 0,
+            "sellers": 0
+          },
+          "m15": {
+            "buys": 0,
+            "sells": 0,
+            "buyers": 0,
+            "sellers": 0
+          },
+          "m30": {
+            "buys": 0,
+            "sells": 0,
+            "buyers": 0,
+            "sellers": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 1,
+            "buyers": 0,
+            "sellers": 1
+          },
+          "h6": {
+            "buys": 3,
+            "sells": 1,
+            "buyers": 3,
+            "sellers": 1
+          },
+          "h24": {
+            "buys": 3,
+            "sells": 1,
+            "buyers": 3,
+            "sellers": 1
+          }
+        },
+        "volume_usd": {
+          "m5": "0.0",
+          "m15": "0.0",
+          "m30": "0.0",
+          "h1": "2.3810079371",
+          "h6": "9.5372279371",
+          "h24": "9.5372279371"
+        },
+        "reserve_in_usd": "0.0"
+      },
+      "relationships": {
+        "base_token": {
+          "data": {
+            "id": "eth_0x2a513343933ccdd87f35b1e5b7e80d1698c6c7a7",
+            "type": "token"
+          }
+        },
+        "quote_token": {
+          "data": {
+            "id": "eth_0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "type": "token"
+          }
+        },
+        "dex": {
+          "data": {
+            "id": "uniswap_v2",
+            "type": "dex"
+          }
+        }
+      }
+    },
+    {
+      "id": "eth_0xd1b7143402bd4bf811ddb61ea110dc24fb6310de",
+      "type": "pool",
+      "attributes": {
+        "base_token_price_usd": "0.000000031625415597413",
+        "base_token_price_native_currency": "0.0000000000121573972090874",
+        "quote_token_price_usd": "2408.29",
+        "quote_token_price_native_currency": "1.0",
+        "base_token_price_quote_token": "0.00000000001215739721",
+        "quote_token_price_base_token": "82254448283.7594",
+        "address": "0xd1b7143402bd4bf811ddb61ea110dc24fb6310de",
+        "name": "SOON / WETH",
+        "pool_created_at": "2025-05-19T07:14:59Z",
+        "fdv_usd": "31625.415597413",
+        "market_cap_usd": null,
+        "price_change_percentage": {
+          "m5": "-12.9",
+          "m15": "-18.9",
+          "m30": "53.5",
+          "h1": "501.5",
+          "h6": "501.5",
+          "h24": "501.5"
+        },
+        "transactions": {
+          "m5": {
+            "buys": 0,
+            "sells": 2,
+            "buyers": 0,
+            "sellers": 2
+          },
+          "m15": {
+            "buys": 2,
+            "sells": 4,
+            "buyers": 2,
+            "sellers": 4
+          },
+          "m30": {
+            "buys": 6,
+            "sells": 6,
+            "buyers": 6,
+            "sellers": 6
+          },
+          "h1": {
+            "buys": 18,
+            "sells": 9,
+            "buyers": 16,
+            "sellers": 9
+          },
+          "h6": {
+            "buys": 18,
+            "sells": 9,
+            "buyers": 16,
+            "sellers": 9
+          },
+          "h24": {
+            "buys": 18,
+            "sells": 9,
+            "buyers": 16,
+            "sellers": 9
+          }
+        },
+        "volume_usd": {
+          "m5": "1768.1291121389",
+          "m15": "8349.2591804545",
+          "m30": "13212.2726929991",
+          "h1": "19972.0186338719",
+          "h6": "19972.0186338719",
+          "h24": "19972.0186338719"
+        },
+        "reserve_in_usd": "23822.8645"
+      },
+      "relationships": {
+        "base_token": {
+          "data": {
+            "id": "eth_0xf13e438662059649c550a793a6dad6c02a9c629c",
+            "type": "token"
+          }
+        },
+        "quote_token": {
+          "data": {
+            "id": "eth_0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "type": "token"
+          }
+        },
+        "dex": {
+          "data": {
+            "id": "uniswap_v2",
+            "type": "dex"
+          }
+        }
+      }
+    },
+    {
+      "id": "eth_0x071709371e5cbe4aa25599a35df8ca08c4f0041f027fb887944a76000a57209f",
+      "type": "pool",
+      "attributes": {
+        "base_token_price_usd": "0.622669572076083",
+        "base_token_price_native_currency": "0.0",
+        "quote_token_price_usd": "1.00068522237752",
+        "quote_token_price_native_currency": "0.000414533686940274",
+        "base_token_price_quote_token": "0.0",
+        "quote_token_price_base_token": null,
+        "address": "0x071709371e5cbe4aa25599a35df8ca08c4f0041f027fb887944a76000a57209f",
+        "name": "STABUL / USDT 1%",
+        "pool_created_at": "2025-05-19T07:14:11Z",
+        "fdv_usd": "6071028.32774181",
+        "market_cap_usd": null,
+        "price_change_percentage": {
+          "m5": "0",
+          "m15": "-3.13",
+          "m30": "-47.39",
+          "h1": "-69.76",
+          "h6": "-78.75",
+          "h24": "-78.75"
+        },
+        "transactions": {
+          "m5": {
+            "buys": 0,
+            "sells": 0,
+            "buyers": 0,
+            "sellers": 0
+          },
+          "m15": {
+            "buys": 0,
+            "sells": 4,
+            "buyers": 0,
+            "sellers": 4
+          },
+          "m30": {
+            "buys": 1,
+            "sells": 11,
+            "buyers": 1,
+            "sellers": 10
+          },
+          "h1": {
+            "buys": 2,
+            "sells": 49,
+            "buyers": 1,
+            "sellers": 48
+          },
+          "h6": {
+            "buys": 2,
+            "sells": 58,
+            "buyers": 1,
+            "sellers": 57
+          },
+          "h24": {
+            "buys": 2,
+            "sells": 58,
+            "buyers": 1,
+            "sellers": 57
+          }
+        },
+        "volume_usd": {
+          "m5": "0.0",
+          "m15": "49.2526612796",
+          "m30": "1063.3811586827",
+          "h1": "2278.833007111",
+          "h6": "3112.0825002888",
+          "h24": "3112.0825002888"
+        },
+        "reserve_in_usd": "2257.572"
+      },
+      "relationships": {
+        "base_token": {
+          "data": {
+            "id": "eth_0x6a43795941113c2f58eb487001f4f8ee74b6938a",
+            "type": "token"
+          }
+        },
+        "quote_token": {
+          "data": {
+            "id": "eth_0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "type": "token"
+          }
+        },
+        "dex": {
+          "data": {
+            "id": "uniswap-v4-ethereum",
+            "type": "dex"
+          }
+        }
+      }
+    },
+    {
+      "id": "eth_0xc7f3cb91802619f990986166be82d75f473a8c3f",
+      "type": "pool",
+      "attributes": {
+        "base_token_price_usd": "0.00160104019905779",
+        "base_token_price_native_currency": "0.00000066712252602944",
+        "quote_token_price_usd": "2409.15",
+        "quote_token_price_native_currency": "1.0",
+        "base_token_price_quote_token": "0.000000667122526",
+        "quote_token_price_base_token": "1498975.0173057",
+        "address": "0xc7f3cb91802619f990986166be82d75f473a8c3f",
+        "name": "TROPPY / WETH",
+        "pool_created_at": "2025-05-19T07:11:23Z",
+        "fdv_usd": "673541.601341622",
+        "market_cap_usd": null,
+        "price_change_percentage": {
+          "m5": "10.02",
+          "m15": "5.74",
+          "m30": "90.07",
+          "h1": "1479.64",
+          "h6": "18358.9",
+          "h24": "18358.9"
+        },
+        "transactions": {
+          "m5": {
+            "buys": 5,
+            "sells": 1,
+            "buyers": 5,
+            "sellers": 1
+          },
+          "m15": {
+            "buys": 60,
+            "sells": 40,
+            "buyers": 60,
+            "sellers": 40
+          },
+          "m30": {
+            "buys": 130,
+            "sells": 72,
+            "buyers": 120,
+            "sellers": 72
+          },
+          "h1": {
+            "buys": 268,
+            "sells": 122,
+            "buyers": 221,
+            "sellers": 106
+          },
+          "h6": {
+            "buys": 369,
+            "sells": 159,
+            "buyers": 321,
+            "sellers": 119
+          },
+          "h24": {
+            "buys": 369,
+            "sells": 159,
+            "buyers": 321,
+            "sellers": 119
+          }
+        },
+        "volume_usd": {
+          "m5": "3370.8246844911",
+          "m15": "104585.695047535",
+          "m30": "180572.916970947",
+          "h1": "286194.081431162",
+          "h6": "307158.934484927",
+          "h24": "307158.934484927"
+        },
+        "reserve_in_usd": "100321.8243"
+      },
+      "relationships": {
+        "base_token": {
+          "data": {
+            "id": "eth_0x29a833655e14b42155f4609a808908ccc7c846af",
+            "type": "token"
+          }
+        },
+        "quote_token": {
+          "data": {
+            "id": "eth_0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "type": "token"
+          }
+        },
+        "dex": {
+          "data": {
+            "id": "uniswap_v2",
+            "type": "dex"
+          }
+        }
+      }
+    },
+    {
+      "id": "eth_0xd903d5be122124885df7598e2f404bece0a495fb",
+      "type": "pool",
+      "attributes": {
+        "base_token_price_usd": "0.00000428957768693776",
+        "base_token_price_native_currency": "0.0000000429819169058109",
+        "quote_token_price_usd": "2368.43",
+        "quote_token_price_native_currency": "1.0",
+        "base_token_price_quote_token": "0.00000004298191691",
+        "quote_token_price_base_token": "23265598.0",
+        "address": "0xd903d5be122124885df7598e2f404bece0a495fb",
+        "name": "KNET / WETH",
+        "pool_created_at": "2025-05-19T07:03:11Z",
+        "fdv_usd": "4289.5776869378",
+        "market_cap_usd": null,
+        "price_change_percentage": {
+          "m5": "0",
+          "m15": "0",
+          "m30": "0",
+          "h1": "0",
+          "h6": "19.59",
+          "h24": "19.59"
+        },
+        "transactions": {
+          "m5": {
+            "buys": 0,
+            "sells": 0,
+            "buyers": 0,
+            "sellers": 0
+          },
+          "m15": {
+            "buys": 0,
+            "sells": 0,
+            "buyers": 0,
+            "sellers": 0
+          },
+          "m30": {
+            "buys": 0,
+            "sells": 0,
+            "buyers": 0,
+            "sellers": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0,
+            "buyers": 0,
+            "sellers": 0
+          },
+          "h6": {
+            "buys": 5,
+            "sells": 0,
+            "buyers": 5,
+            "sellers": 0
+          },
+          "h24": {
+            "buys": 5,
+            "sells": 0,
+            "buyers": 5,
+            "sellers": 0
+          }
+        },
+        "volume_usd": {
+          "m5": "0.0",
+          "m15": "0.0",
+          "m30": "0.0",
+          "h1": "0.0",
+          "h6": "391.2604883017",
+          "h24": "391.2604883017"
+        },
+        "reserve_in_usd": "0.0"
+      },
+      "relationships": {
+        "base_token": {
+          "data": {
+            "id": "eth_0x72679e462db43fdf56e01833a3a712dbe9c962e1",
+            "type": "token"
+          }
+        },
+        "quote_token": {
+          "data": {
+            "id": "eth_0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "type": "token"
+          }
+        },
+        "dex": {
+          "data": {
+            "id": "uniswap_v2",
+            "type": "dex"
+          }
+        }
+      }
+    },
+    {
+      "id": "eth_0xe6ff8f16479648f8fb5a50aa8810b88e8bbbab26",
+      "type": "pool",
+      "attributes": {
+        "base_token_price_usd": "0.0163965607738737",
+        "base_token_price_native_currency": "0.00000000000684067917433733",
+        "quote_token_price_usd": "2404.13",
+        "quote_token_price_native_currency": "1.0",
+        "base_token_price_quote_token": "0.000000000006840679174",
+        "quote_token_price_base_token": "146184315111.792",
+        "address": "0xe6ff8f16479648f8fb5a50aa8810b88e8bbbab26",
+        "name": "Moo Daeng / WETH",
+        "pool_created_at": "2025-05-19T07:02:47Z",
+        "fdv_usd": "1639656.07738737",
+        "market_cap_usd": null,
+        "price_change_percentage": {
+          "m5": "0",
+          "m15": "0",
+          "m30": "274.71",
+          "h1": "562.48",
+          "h6": "22278.04",
+          "h24": "22278.04"
+        },
+        "transactions": {
+          "m5": {
+            "buys": 0,
+            "sells": 0,
+            "buyers": 0,
+            "sellers": 0
+          },
+          "m15": {
+            "buys": 0,
+            "sells": 0,
+            "buyers": 0,
+            "sellers": 0
+          },
+          "m30": {
+            "buys": 1,
+            "sells": 1,
+            "buyers": 1,
+            "sellers": 1
+          },
+          "h1": {
+            "buys": 25,
+            "sells": 16,
+            "buyers": 22,
+            "sellers": 16
+          },
+          "h6": {
+            "buys": 125,
+            "sells": 43,
+            "buyers": 117,
+            "sellers": 43
+          },
+          "h24": {
+            "buys": 125,
+            "sells": 43,
+            "buyers": 117,
+            "sellers": 43
+          }
+        },
+        "volume_usd": {
+          "m5": "0.0",
+          "m15": "0.0",
+          "m30": "32795.5256877473",
+          "h1": "100037.641537328",
+          "h6": "236167.913519907",
+          "h24": "236167.913519907"
+        },
+        "reserve_in_usd": "0.0"
+      },
+      "relationships": {
+        "base_token": {
+          "data": {
+            "id": "eth_0x9f7d0f9a246df74eb23c58615f02aa707aeab88a",
+            "type": "token"
+          }
+        },
+        "quote_token": {
+          "data": {
+            "id": "eth_0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "type": "token"
+          }
+        },
+        "dex": {
+          "data": {
+            "id": "uniswap_v2",
+            "type": "dex"
+          }
+        }
+      }
+    },
+    {
+      "id": "eth_0xd1f566890e29f5d0b730ea5df7fc88a9e27ba947",
+      "type": "pool",
+      "attributes": {
+        "base_token_price_usd": "0.00000000397659766255016",
+        "base_token_price_native_currency": "0.00000000000167853926144273",
+        "quote_token_price_usd": "2368.66",
+        "quote_token_price_native_currency": "1.0",
+        "base_token_price_quote_token": "0.000000000001678539261",
+        "quote_token_price_base_token": "595756097560.974",
+        "address": "0xd1f566890e29f5d0b730ea5df7fc88a9e27ba947",
+        "name": "404 / WETH",
+        "pool_created_at": "2025-05-19T07:00:59Z",
+        "fdv_usd": "1670.1710182711",
+        "market_cap_usd": null,
+        "price_change_percentage": {
+          "m5": "0",
+          "m15": "0",
+          "m30": "0",
+          "h1": "0",
+          "h6": "0.31",
+          "h24": "0.31"
+        },
+        "transactions": {
+          "m5": {
+            "buys": 0,
+            "sells": 0,
+            "buyers": 0,
+            "sellers": 0
+          },
+          "m15": {
+            "buys": 0,
+            "sells": 0,
+            "buyers": 0,
+            "sellers": 0
+          },
+          "m30": {
+            "buys": 0,
+            "sells": 0,
+            "buyers": 0,
+            "sellers": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0,
+            "buyers": 0,
+            "sellers": 0
+          },
+          "h6": {
+            "buys": 2,
+            "sells": 0,
+            "buyers": 2,
+            "sellers": 0
+          },
+          "h24": {
+            "buys": 2,
+            "sells": 0,
+            "buyers": 2,
+            "sellers": 0
+          }
+        },
+        "volume_usd": {
+          "m5": "0.0",
+          "m15": "0.0",
+          "m30": "0.0",
+          "h1": "0.0",
+          "h6": "4.73668",
+          "h24": "4.73668"
+        },
+        "reserve_in_usd": "0.0"
+      },
+      "relationships": {
+        "base_token": {
+          "data": {
+            "id": "eth_0xebc1948d13da78c1e11a726e4704206d0531cbc5",
+            "type": "token"
+          }
+        },
+        "quote_token": {
+          "data": {
+            "id": "eth_0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "type": "token"
+          }
+        },
+        "dex": {
+          "data": {
+            "id": "uniswap_v2",
+            "type": "dex"
+          }
+        }
+      }
+    }
+  ],
+  "included": [
+    {
+      "id": "uniswap_v2",
+      "type": "dex",
+      "attributes": {
+        "name": "Uniswap V2"
+      }
+    },
+    {
+      "id": "uniswap_v3",
+      "type": "dex",
+      "attributes": {
+        "name": "Uniswap V3"
+      }
+    },
+    {
+      "id": "uniswap-v4-ethereum",
+      "type": "dex",
+      "attributes": {
+        "name": "Uniswap V4 (Ethereum)"
+      }
+    }
+  ]
+}
